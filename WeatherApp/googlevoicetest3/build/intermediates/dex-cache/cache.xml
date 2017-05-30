@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/macbreaker/googlevoicetest3/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/macbreaker/googlevoicetest3/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_09897b6c4fc9b8cdc6d07e08316725564ab755e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbreaker/googlevoicetest3/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3af3cda115749b021df24a78e32307e118edf6d3">
+        <dex dex="/Users/macbreaker/googlevoicetest3/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c31774229735eb393681f801d5032f700095df45/classes.dex" />
+    </item>
+
+</items>
