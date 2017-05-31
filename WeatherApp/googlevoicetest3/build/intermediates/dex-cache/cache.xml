@@ -3,21 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="/Users/macbreaker/googlevoicetest3/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="C:\Users\Justin\Desktop\Jpeezzy-master\WeatherApp\googlevoicetest3\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
-        <dex dex="/Users/macbreaker/googlevoicetest3/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_09897b6c4fc9b8cdc6d07e08316725564ab755e1/classes.dex" />
+        sha1="5e024cf48fa37f59324ffbc2a4ae0f696f7537e9">
+        <dex dex="C:\Users\Justin\Desktop\Jpeezzy-master\WeatherApp\googlevoicetest3\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_cfd3ba8db7d28791f1028f22ade96224f7bb0d81\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/macbreaker/googlevoicetest3/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="C:\Users\Justin\Desktop\Jpeezzy-master\WeatherApp\googlevoicetest3\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="3af3cda115749b021df24a78e32307e118edf6d3">
-        <dex dex="/Users/macbreaker/googlevoicetest3/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c31774229735eb393681f801d5032f700095df45/classes.dex" />
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\Justin\Desktop\Jpeezzy-master\WeatherApp\googlevoicetest3\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_96229066ea727476f6452e2d7d46ef50af65a811\classes.dex" />
     </item>
 
 </items>
