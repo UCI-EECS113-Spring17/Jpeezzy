@@ -6,7 +6,6 @@ import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
-
 /**
  * Created by Justin on 5/30/2017.
  */
@@ -46,15 +45,15 @@ public class ReadTextFile {
         else if (temp>=60 & temp < 70)
             return "A windbreaker and beanie";
         else if(temp >= 70 & temp < 80)
-            return "Weather is perfect, go outside with a light jacket, sandals, and shorts ";
+            return "Weather is perfect. Go outside with a light jacket, jeans, and your favorite shoes";
         else if(temp >= 80 & temp >85 )
             return "It's a little warm outside. Wear shorts, a loose tee-shirt, and sandals.";
         else if(temp >= 85 & temp < 90 )
-            return "It's warm. Wear loose shorts and shirt";
+            return "It's warm. Wear loose shorts, a shirt, and sandals";
         else if(temp >= 90)
-            return "It's hot right now. Make sure to wear sunblock, as well as shorts and shirt.";
+            return "It's hot right now. Make sure to wear sunblock, as well as shorts and linen, or a light cotton shirt.";
         else
-            return "Soryr, i cannot recognize this temperature, please try again.";
+            return "Sorry, i cannot recognize this temperature, please try again.";
     }
 }
 
